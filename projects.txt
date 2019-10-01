@@ -1,0 +1,6 @@
+Breast Cancer Classification
+Fasion Class Classification
+Directing Customers Through App Behavoiur Analysis
+Minimizing Churn Rate Through Analysis of Financial Habbits
+Predicting Likelihood of E-Signing a Loan based on Financial History
+Credit Card Fraud Detection
